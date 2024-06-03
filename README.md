@@ -17,7 +17,7 @@ We highly value your feedback as it helps us improve the app. Whether you have e
 
 If you've encountered an issue with the app, please follow these steps to report it:
 
-1. **Go to the [Issues](https://github.com/ao3-plus-plus-feedback/issues) tab.**
+1. **Go to the [Issues](https://github.com/animaonline/ao3-plus-plus-feedback/issues) tab.**
 2. **Click on "New Issue".**
 3. **Choose the "Bug Report" template.**
 4. **Provide a clear and concise description of the issue.** Include the following details:
@@ -31,7 +31,7 @@ If you've encountered an issue with the app, please follow these steps to report
 
 If you have a feature request, we'd love to hear it! Here's how to submit your idea:
 
-1. **Go to the [Issues](https://github.com/ao3-plus-plus-feedback/issues) tab.**
+1. **Go to the [Issues](https://github.com/animaonline/ao3-plus-plus-feedback/issues) tab.**
 2. **Click on "New Issue".**
 3. **Choose the "Feature Request" template.**
 4. **Provide a clear and concise description of the feature.** Include the following details:
