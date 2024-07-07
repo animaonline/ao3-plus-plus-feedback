@@ -1,13 +1,13 @@
-# Feedback and Feature Requests for the FanFiction Reader AO3++ App
+# Feedback and Feature Requests for the FanFiction Reader App
 
-Welcome to the GitHub repository for the FanFiction Reader AO3++ App! This space is dedicated to collecting your feedback, reporting issues, and requesting new features to make the app better for everyone.
+Welcome to the GitHub repository for the FanFiction Reader App! This space is dedicated to collecting your feedback, reporting issues, and requesting new features to make the app better for everyone.
 
 ## About the App
 
-The FanFiction Reader AO3++ App is designed to enhance your experience with reading fanfiction from AO3 (Archive of Our Own). If you haven't downloaded the app yet, you can get it from the App Store using the following link:
+The FanFiction Reader App is designed to enhance your experience with reading fanfiction from AO3 (Archive of Our Own). If you haven't downloaded the app yet, you can get it from the App Store using the following link:
 
-iOS: [Download FanFiction Reader AO3++](https://apps.apple.com/no/app/fanfiction-reader-ao3/id6479576634)
-Android: [Download FanFiction Reader AO3++](https://play.google.com/store/apps/details?id=com.animaonline.ao3)
+iOS: [Download FanFiction Reader](https://apps.apple.com/no/app/fanfiction-reader-ao3/id6479576634)
+Android: [Download FanFiction Reader](https://play.google.com/store/apps/details?id=com.animaonline.ao3)
 
 ## How to Provide Feedback
 
