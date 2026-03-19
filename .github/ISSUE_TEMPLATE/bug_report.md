@@ -26,6 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Smartphone (please complete the following information):**
 - Device: [e.g. iPhone6]
 - OS: [e.g. iOS8.1]
+- App Version: [e.g. 1.x.x]
 
 **Additional context**
 Add any other context about the problem here.
